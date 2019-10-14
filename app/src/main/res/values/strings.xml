@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUDusuario</string>
+    <string name="title_activity_main">Order Activity</string>
+</resources>

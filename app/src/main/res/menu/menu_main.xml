@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.iftm.cruduser.activities.MainActivity">
+    <item
+        android:id="@+id/action_login"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_login"
+        android:title="Registro de usuário"/>
+    <item
+        android:id="@+id/action_register"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_register"
+        android:title="Registro de usuário"/>
+    <item
+        android:id="@+id/action_list"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_action_list_users"
+        android:title="Listar usuários"/>
+</menu>
